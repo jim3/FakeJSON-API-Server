@@ -5,7 +5,7 @@
 I was working on a project that required a lot of fake data. <br>
 I needed a quick way to create a bunch of objects with the same structure _but_ with different data. <br>
 
-This is a simple [Node.js/Express.js] API server that returns fake JSON / objects, useful when tetsing out your app.
+This is a simple [Node.js/Express.js] API server that returns fake JSON / objects, useful when testing out an app.
 
 The data is randomized via the _awesome_ [Faker.js](https://fakerjs.dev) JavaScript library.
 
